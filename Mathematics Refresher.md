@@ -1,6 +1,6 @@
 ﻿# Mathematics Refresher
 
-Start with [[Probability]] for expected value, variance, and quantiles. Then use [[Probability Distributions]] to see a few common models. For the complete applied route, follow [[Actuarial Refresher - 10 Hours]].
+Start with [[Probability]] for expected value, variance, and quantiles. Then use [[Probability Distributions]] to see a few common models. For the complete applied route, follow [[Actuarial Refresher]].
 
 ## Core reading path
 

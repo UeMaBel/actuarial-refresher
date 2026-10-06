@@ -1,4 +1,4 @@
-﻿# Probability
+# Probability
 
 > First stop for the mathematical refresher: learn how to summarize uncertainty before moving to statistical estimation or stochastic models.
 

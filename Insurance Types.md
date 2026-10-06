@@ -22,5 +22,4 @@ Each path starts with the insurance product and its risks, then moves into the m
 
 ## Guided refresher
 
-- [[Actuarial Refresher - 10 Hours]] — A ten-hour route across the insurance branches and wider framework.
-
+- [[Actuarial Refresher]] — A guided route across the insurance branches and wider framework.

@@ -40,6 +40,5 @@ Solvency II introduced a broader economic and risk-based approach.
 
 ## Guided refresher
 
-- [[Actuarial Refresher - 10 Hours]] — The full route through mathematics, insurance, valuation, capital, and reporting.
+- [[Actuarial Refresher]] — The full route through mathematics, insurance, valuation, capital, and reporting.
 - [[Risk Measures and Diversification]] — How loss distributions connect to capital.
-

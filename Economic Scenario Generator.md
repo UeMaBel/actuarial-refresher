@@ -156,6 +156,5 @@ It connected quantitative-finance models such as Hull-White Two-Factor Model and
 
 ## Guided refresher
 
-- [[Actuarial Refresher - 10 Hours]] — Where scenarios fit in the overall actuarial workflow.
+- [[Actuarial Refresher]] — Where scenarios fit in the overall actuarial workflow.
 - [[Time Value of Money]] — Discount factors and yield curves used in scenario valuation.
-

@@ -1,16 +1,14 @@
 # Actuarial Refresher
 
-A linked Obsidian vault for revisiting actuarial mathematics, insurance, financial modelling, and solvency reporting. It includes a guided ten-hour route through the notes, with review questions and a case study to connect the topics.
+A linked Obsidian vault for revisiting actuarial mathematics, insurance, financial modelling, and solvency reporting. 
 
 ## Start here
 
-Open this folder as a vault in [Obsidian](https://obsidian.md/), then begin with **Actuarial Refresher - 10 Hours.md**. The route is designed to take about ten hours, including short pauses to answer questions from memory. It can be split naturally into two sessions after block five.
-
-The route moves from probability and discounting through life, motor, and health insurance, then into economic scenarios, Solvency II, ORSA, and IFRS reporting. Notes link to related material for deeper study.
+Open this folder as a vault in [Obsidian](https://obsidian.md/), then begin with **Actuarial Refresher.md**. 
 
 ## Vault contents
 
-- **Guided route:** `Actuarial Refresher - 10 Hours.md`
+- **Guided route:** [[Actuarial Refresher]]
 - **Foundations:** probability, statistics, survival models, and mathematics
 - **Insurance:** life, health, and motor products, pricing, and reserving
 - **Financial modelling:** stochastic processes, scenario generation, and valuation models
